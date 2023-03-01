@@ -78,9 +78,9 @@ header #branding h1{
  /*showcase*/
  #showcase{
     min-height: 400px;
-    background-image: url('img/1666189778962.png')/* no-repeat 0 -400px */;
+    background-image: url('./img/1666189778962.png')/* no-repeat 0 -400px */;
     text-align: center;
-    color: #ffffff;
+    color: #e5e8de;
 
  }
  #showcase h1{
